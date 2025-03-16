@@ -7,7 +7,9 @@ I am currently refining my data analytics skills through real-world projects tha
 
 I aim to help businesses make smarter, data-driven decisions by integrating advanced analytics and automation. Additionally, I aspire to collaborate with diverse teams to create innovative solutions that enhance efficiency and drive growth.
 This repository serves as a space to demonstrate my skills, present projects, and document my growth in Data Analytics.
+
 Contacts;
+
 Email; Emmanuelklutseyofori@gmail.com
 
 Linkedln; linkedin.com/in/EmmanuelKlutseyOfori
