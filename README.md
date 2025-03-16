@@ -2,7 +2,9 @@
 ABOUT
 
 My passion for data analytics grew from a background in accounting where I developed a strong analytical mindset and attention to detail. While working with financial data, I became fascinated by the power of data-driven insights in shaping business decisions. This curiosity led me to explore data analytics tools such as Excel, Power BI, MySQL, and Python
+
 I am currently refining my data analytics skills through real-world projects that enhance my problem-solving abilities. I focus on uncovering patterns, optimizing processes, and staying updated with evolving technologies.
+
 I aim to help businesses make smarter, data-driven decisions by integrating advanced analytics and automation. Additionally, I aspire to collaborate with diverse teams to create innovative solutions that enhance efficiency and drive growth.
 This repository serves as a space to demonstrate my skills, present projects, and document my growth in Data Analytics.
 Contacts;
