@@ -7,9 +7,11 @@ I aim to help businesses make smarter, data-driven decisions by integrating adva
 This repository serves as a space to demonstrate my skills, present projects, and document my growth in Data Analytics.
 Contacts;
 Email; Emmanuelklutseyofori@gmail.com
+
 Linkedln; linkedin.com/in/EmmanuelKlutseyOfori
 
 KEY SKILLS
+
 Data Cleaning: Fix messy data by handling errors, duplicates, and missing information to make it accurate and reliable.
 Data Analysis: Find patterns, trends, and insights to help teams make better decisions.
 SQL: Pull data from databases, combine datasets and filter information to get what’s needed.
