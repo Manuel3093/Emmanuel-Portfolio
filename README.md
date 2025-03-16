@@ -12,7 +12,7 @@ Contacts;
 
 Email; Emmanuelklutseyofori@gmail.com
 
-Linkedln; linkedin.com/in/EmmanuelKlutseyOfori
+Linkedln; http://linkedin.com/in/emmanuel-klutsey-ofori-90534226b
 
 KEY SKILLS
 
