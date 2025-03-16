@@ -15,10 +15,17 @@ Linkedln; linkedin.com/in/EmmanuelKlutseyOfori
 KEY SKILLS
 
 Data Cleaning: Fix messy data by handling errors, duplicates, and missing information to make it accurate and reliable.
+
 Data Analysis: Find patterns, trends, and insights to help teams make better decisions.
+
 SQL: Pull data from databases, combine datasets and filter information to get what’s needed.
+
 Data Visualization: Create easy-to-understand charts and dashboards using Power BI, and Python.
+
 Excel: Use tools like Pivot Tables and lookup functions to organize and analyze data.
+
 Python: Automate tasks, run data analysis, and uncover deeper insights with coding.
+
 Business Reporting: Build clear, helpful dashboards that track performance and highlight important metrics.
+
 Data Storytelling: Explain data insights in a way that’s easy for everyone technical or not to understand and act on.
