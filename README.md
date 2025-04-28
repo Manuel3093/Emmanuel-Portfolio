@@ -41,7 +41,8 @@ Data Storytelling: Explain data insights in a way that’s easy for everyone tec
 
 PROJECTS
 
-Introduction and Project Overview
+INTRODUCTION AND PROJECT OVERVIEW
+
  
 Data Analysis for Nairobi Connect
 
@@ -79,7 +80,7 @@ Impact: Proposed tailored solutions such as improved task automation and resourc
 
 
 
-Introduction and Project Overview
+INTRODUCTION AND PROJECT OVERVIEW
  
 Analysis & Sales Insights for Tasty Bites Restaurant
 
@@ -122,7 +123,7 @@ Menu Optimization: Understanding the top-selling dishes provided data for potent
 
 
 
-Introduction and Project Overview
+INTRODUCTION AND PROJECT OVERVIEW
 
 Analysis for Manuel Tech Ltd 
 
