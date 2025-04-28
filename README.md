@@ -33,6 +33,12 @@ Business Reporting: Build clear, helpful dashboards that track performance and h
 Data Storytelling: Explain data insights in a way that’s easy for everyone technical or not to understand and act on.
 
 
+
+
+
+
+
+
 PROJECTS
 
 Introduction and Project Overview
